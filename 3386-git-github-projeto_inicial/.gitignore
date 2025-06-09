@@ -1,2 +1,3 @@
-temp/
+# Arquivos de log gerados localmente
+logs.txt
 # Ignorar arquivos temporários e de log
